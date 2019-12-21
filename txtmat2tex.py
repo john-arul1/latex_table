@@ -5,7 +5,7 @@ Created on Mon Dec 16 15:04:43 2019
 @author: A. John Arul, kalpakkam, India
 The software is issued without any warranty and free to distribute licence
 
-Generates smiple  latex tables from ascii text files containing table in colums and rows.
+Generates smiple  latex table from ascii text file containing table in columns and rows.
 """
 
 import numpy as np
